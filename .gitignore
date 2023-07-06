@@ -1,0 +1,10 @@
+# ENV
+env/
+venv/
+.env
+
+# VS CODE AND OTHER EDITORS
+.vscode/
+
+*.pyc
+__pycache__
